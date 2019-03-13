@@ -22,7 +22,7 @@ function copyTextToClipboard() {
 }
 
 function getInnerHtml() {
-  return '<a href="https://github.com" id="github-stamp"> \
+  return '<a href="https://github.com/few-bits/github-stamp" id="github-stamp"> \
       <svg \
         xmlns="http://www.w3.org/2000/svg" \
         viewBox="0 0 500 500" \
